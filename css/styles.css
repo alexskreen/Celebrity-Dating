@@ -4,3 +4,7 @@
 body{
   background: pink
 }
+img {
+  max-width:700px;
+  height:auto;
+}
